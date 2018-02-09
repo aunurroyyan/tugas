@@ -14,7 +14,7 @@
   <body>
     <header>
         <div class="d-flex flex-column flex-md-row align-items-center p-3 px-md-4 bg-white border-bottom box-shadow">
-          <h5 class="my-0 mr-md-auto font-weight-normal">Opus Nusantara</h5>
+          <h5 class="my-0 mr-md-auto font-weight-normal">Percobaan</h5>
           <nav class="my-2 my-md-0 mr-md-3">
             <a class="p-2 link-navbar" href="/">Home</a>
             <a class="p-2 link-navbar" href="/">Daftar Lombaku</a>
